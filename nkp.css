@@ -1,0 +1,138 @@
+body{
+    background-color: rgb(250, 143, 2);
+}
+h1{
+    font-family: "Rubik Wet Paint", system-ui;
+    color: rgb(60, 9, 9);
+    font-size: 40px;
+}
+pre{
+    font-family: "Rubik Wet Paint", system-ui;
+    color: rgb(60, 9, 9);
+    font-size: 50px;
+}
+#nav1{
+    font-family: "Rubik Wet Paint", system-ui;
+}
+#nav{
+    font-size: 25px;
+    margin-left: 100px;
+    font-family: "Creepster", system-ui;
+    text-shadow: 3px 4px 5px rgb(85, 82, 82);
+    
+}
+#nav2{
+    margin-left: 20px;
+}
+#boss{
+    font-size: 45px;
+    color: rgb(250, 143, 2);
+    font-family: cursive;
+    
+}
+#enquirynow{
+    text-decoration: none;
+    color: rgb(250, 143, 2);
+    background-color: brown;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: cursive;
+    box-shadow: 2px 3px 4px black;
+    font-weight: bolder;
+
+}
+#history{
+    background-color: yellow;
+    border-radius: 90px 40px 90px 40px / 50px 100px 50px 100px;
+    box-shadow: 10px 10px 10px black;
+}
+#historypara{
+    font-size: 25px;
+    margin-top: 50px;
+    padding-left: 20px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+#menupara{
+    font-size: 25px;
+    margin-top: 50px;
+    padding-left: 20px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+#menuimg:hover{
+    transform: scale(1.1);
+    transition-duration: 2s;
+}
+#footerlink{
+    text-decoration: none;
+    color: rgb(54, 21, 1);
+    font-size: 30px;
+    margin-left: 40px;
+    font-family: "Creepster", system-ui;
+    text-shadow: 3px 4px 5px rgb(85, 82, 82);
+}
+#footerlink:hover{
+    color: yellow;
+    text-shadow: 5px 6px 7px rgb(54, 21, 1);
+}
+h2{
+    font-size: 20px;
+    color: rgb(7, 7, 7);
+    font-family: "Creepster", system-ui;
+    font-weight: bolder;
+
+}
+#up{
+ margin-right: 20px;
+ 
+}
+#franchiseimg1{
+    margin-left: 90px;
+    width: 600px;
+    height: 600px;
+    border-radius: 20px 60px 20px 60px / 60px 20px 60px 20px;
+    box-shadow: 10px 20px 30px black;
+   
+}
+#franchisepara1{
+    font-size: 25px;
+    color: yellow;
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: lighter;
+    margin-top: 30px;
+}
+#franchisepara{
+    background-color: rgb(54, 21, 1);
+    border-radius: 50px 20px 50px 20px / 20px 50px 20px 50px;
+}
+#franchiseparapara{
+    background-color: rgb(254, 169, 0);
+    border-radius: 50px 20px 50px 20px / 20px 50px 20px 50px;
+}
+#franchisepara2{
+    font-size: 25px;
+    color: rgb(54, 21, 1);
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: lighter;
+    margin-top: 30px;
+}
+#product{
+    background-color: rgb(54, 21, 1);
+    border-radius: 50px 20px 50px 20px / 20px 50px 20px 50px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+#product1{
+    background-color: rgb(254, 169, 0);
+    border-radius: 50px 20px 50px 20px / 20px 50px 20px 50px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+#productimg{
+    padding-top: 10px;
+}
+#productimg:hover{
+    transform: scale(1.1);
+    transition-duration: 2s;
+}

@@ -1,0 +1,21 @@
+body{
+    background-image: url(videoframe_8614.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: "Rubik Wet Paint", system-ui;
+    color: rgb(60, 9, 9);
+    font-size: 35px;
+    text-shadow: 2px 3px 4px wheat;
+}
+button{
+    background-color: rgb(55, 36, 1);
+    font-size: 20px;
+    border-radius: 20px;
+    color: yellow;
+}
+button:hover{
+    transform: scale(1.1);
+    box-shadow: 3px 4px 5px black;
+}
